@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-demo.iml" filepath="$PROJECT_DIR$/cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-demo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-demo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-client/consul-client.iml" filepath="$PROJECT_DIR$/consul-client/consul-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consul-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/consul-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/consul-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/consul-client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/eureka-consumer-feign/eureka-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-consumer-feign.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-consumer-feign.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-consumer-feign.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-consumer-feign.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" filepath="$PROJECT_DIR$/eureka-consumer-ribbon/eureka-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/eureka-consumer-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/eureka-consumer-ribbon-hystrix/eureka-consumer-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-consumer-ribbon-hystrix.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-consumer-ribbon-hystrix.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-consumer-ribbon-hystrix.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-consumer-ribbon-hystrix.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-consumer-ribbon.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-consumer-ribbon.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-consumer-ribbon.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-consumer-ribbon.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-consumer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-consumer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server.test.iml" />
+    </modules>
+  </component>
+</project>

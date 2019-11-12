@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="cloud-demo.main" target="1.8" />
+      <module name="cloud-demo.test" target="1.8" />
+      <module name="consul-client.main" target="1.8" />
+      <module name="consul-client.test" target="1.8" />
+      <module name="eureka-client.main" target="1.8" />
+      <module name="eureka-client.test" target="1.8" />
+      <module name="eureka-consumer-feign.main" target="1.8" />
+      <module name="eureka-consumer-feign.test" target="1.8" />
+      <module name="eureka-consumer-ribbon-hystrix.main" target="1.8" />
+      <module name="eureka-consumer-ribbon-hystrix.test" target="1.8" />
+      <module name="eureka-consumer-ribbon.main" target="1.8" />
+      <module name="eureka-consumer-ribbon.test" target="1.8" />
+      <module name="eureka-consumer.main" target="1.8" />
+      <module name="eureka-consumer.test" target="1.8" />
+      <module name="eureka-server.main" target="1.8" />
+      <module name="eureka-server.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
